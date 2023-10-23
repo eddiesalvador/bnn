@@ -1,2 +1,5 @@
-# bnn
+# BNN
 Bias News Network
+
+---
+# Setup 
